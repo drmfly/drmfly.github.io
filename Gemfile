@@ -1,2 +1,2 @@
 source 'https://gems.ruby-china.org'
-gem 'github-pages', '>= 104'
+gem 'github-pages', '>= 172'

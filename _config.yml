@@ -11,7 +11,7 @@ keywords: 李玮
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-source_code: https://github.com/drmfly/drmfly.github.io
+source_code: https://github.com/liwei5/liwei5.github.io
 side_bar_repo_limit: 5
 
 # ---------------- #
@@ -84,7 +84,7 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: drmfly
+github_username: liwei5
 #douban_username: drmfly
 facebook_username: drmfly1234
 #weibo_username: drmfly
@@ -119,4 +119,4 @@ skill_mobile_app_keywords: [Java]
 # ---------------- #
 # Github metadata  #
 # ---------------- #
-repository: drmfly/drmfly.github.io
+repository: liwei5/liwei5.github.io

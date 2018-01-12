@@ -120,3 +120,8 @@ skill_mobile_app_keywords: [Java]
 # Github metadata  #
 # ---------------- #
 repository: liwei5/liwei5.github.io
+
+jekyll_auth:
+  whitelist:
+    - drafts?
+    - wiki?

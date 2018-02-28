@@ -6,8 +6,8 @@ url: https://liwei.io
 date_format: "ordinal"
 title: 李玮
 subtitle: "For life-loving people, happiness is a lucky coincidence and a reward to their insistent attitude to life and lofty quality. . "
-description: "李玮博客"
-keywords: 李玮
+description: "李伟的博客"
+keywords: 李伟, Wei Li, Li Wei, liwei
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 李玮
+author: 李伟
 organization: Changhong, Inc.
 organization_url: http://cn.changhong.com
 location: Sichuan, China
